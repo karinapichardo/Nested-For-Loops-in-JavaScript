@@ -7,3 +7,15 @@ for (var i = 0; i < flavors.length; i++) {
     console.log(`you can have ${flavors[i]} with ${toppings[j]}`);
   }
 }
+
+/* will log: 
+you can have Vanilla with Sprinkles
+you can have Vanilla with Caramel
+you can have Vanilla with Whipped Cream
+you can have Chocolate with Sprinkles
+you can have Chocolate with Caramel
+you can have Chocolate with Whipped Cream
+you can have Strawberry with Sprinkles
+you can have Strawberry with Caramel
+you can have Strawberry with Whipped Cream
+*/
